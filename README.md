@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jansen Osorio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jansenosorio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Civil engineer passionate about technology and programming 
+- 🔥 Civil engineer in love with technology and programming 
 
 - 🔭 I’m currently studying at Rocketseat Ignite
 
