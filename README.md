@@ -4,9 +4,9 @@
 
 - 🔥 Civil engineer in love with technology and programming 
 
-- 🔭 I’m currently studying at Rocketseat Ignite
+- 🔭 I’m currently studying at Driven Education
 
-- 🌱 I’m currently learning ReactJS and React Native
+- 🌱 I’m currently learning Javascript, ReactJS
 
 - ⚡ You can call me Jota
 
