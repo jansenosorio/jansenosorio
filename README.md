@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at Driven Education
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS <img height="16" width="16" src="https://cdn.simpleicons.org/react/61DAFB" />
 
 - ⚡ You can call me Jota
 
