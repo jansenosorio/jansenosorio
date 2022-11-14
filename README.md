@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at Driven Education
 
-- 🌱 I’m currently learning Javascript, ReactJS
+- 🌱 I’m currently learning ReactJS
 
 - ⚡ You can call me Jota
 
