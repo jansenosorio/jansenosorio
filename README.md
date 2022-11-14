@@ -59,8 +59,8 @@
 <center>
   <table>
     <tr>
-        <td><img height="200em" align="left" src="https://github-readme-twitter-gazf.vercel.app/api?id=jansen_osorio&layout=wide&show_reply=off&show_retweet=off" /></td>
-        <td> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&show_icons=true&theme=dark&count_private=true" /></td>
+        <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenosorio&layout=compact&theme=vision-friendly-dark" /></td>
+        <td> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&show_icons=true&theme=vision-friendly-dark&count_private=true" /></td>
     </tr>  
   </table>
 </center>
