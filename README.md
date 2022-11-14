@@ -10,8 +10,6 @@
 
 - ⚡ You can call me Jota
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -22,8 +20,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
 
@@ -44,7 +40,7 @@
  <img align="center" src="https://img.shields.io/badge/-eng_osorio-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
+<br>
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=jansen_osorio&layout=wide&show_reply=off&show_retweet=off" />
 
 
