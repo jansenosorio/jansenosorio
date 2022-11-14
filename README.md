@@ -10,16 +10,31 @@
 
 - ⚡ You can call me Jota
 
+
+<br>
+
 ## 🛠 &nbsp;Tech Stack
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
+<br>
+<p float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/axios/5A29E4" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/trello/0052CC" />
+</p>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
 
