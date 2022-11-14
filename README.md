@@ -2,13 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jansen Osorio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jansenosorio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Civil engineer in love with technology and programming 
+- 🔥 Civil engineer in love with technology and programming.
 
-- 🔭 I’m currently studying at Driven Education
+- 🔭 I’m currently studying at Driven Education.
 
 - 🌱 I’m currently learning ReactJS <img height="16" width="16" src="https://cdn.simpleicons.org/react/61DAFB" />
 
-- ⚡ You can call me Jota
+- ⚡ You can call me Jota.
 
 
 <br>
