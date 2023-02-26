@@ -36,6 +36,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/trello/0052CC" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/.env" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/339933" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" />
 </p>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
