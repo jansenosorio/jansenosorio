@@ -37,6 +37,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/.env" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/339933" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/4169E1" />
 </p>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
