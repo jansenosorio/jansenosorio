@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at Driven Education.
 
-- 🌱 I’m currently learning NodeJs with PostrgreSQL <img height="16" width="16" src="https://cdn.simpleicons.org/react/61DAFB" />
+- 🌱 I’m currently learning NodeJs <img height="16" width="16" src="https://cdn.simpleicons.org/node.js/339933" /> with PostrgreSQL <img height="16" width="16" src="https://cdn.simpleicons.org/postgresql/4169E1" />
 
 - ⚡ You can call me Jota.
 
