@@ -11,7 +11,7 @@
 - ⚡ You can call me Jota.
 
 
- <div align="center">
+ <div align="left">
  
   ## 🛠  Technologies and tools
  
