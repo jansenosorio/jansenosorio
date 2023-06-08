@@ -1,122 +1,145 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Jansen Osorio</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jansenosorio&color=yellow" alt="Profile views" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CBB52FF&height=120&section=header"/>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5CBB52FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jansen+Osório;Sou+Desenvolvedor+Web+Full+Stack;Meu+sonho+é+escalar+montanhas.+;Sou+de+São+Paulo+🌎;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- 🔥 Civil engineer in love with technology and programming.
+ <br>
+ <br>
 
-- 🔭 I’m currently studying at Driven Education.
+  <div align="center">
+  <a href="https://www.linkedin.com/in/jansenosorio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href = "mailto:dev.osorio93@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
-- 🌱 I’m currently learning Next.js <img height="16" width="16" src="https://cdn.simpleicons.org/next.js/FFFFFF" /> with NestJs <img height="16" width="16" src="https://cdn.simpleicons.org/nestjs/E0234E" />.
-
-- ⚡ You can call me Jota.
-
-
- <div align="left">
- 
-  ## 🛠  Technologies and tools
- 
- </div>
- 
-        
-[<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-130F40?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-130F40?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-130F40?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-130F40?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/next.js-130F40?logo=nextdotjs&logoColor=f1f1f1" alt="Next logo" title="Next" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vite-130F40?logo=vite&logoColor=B73BFE" alt="Vite logo" title="Vite" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Styled--Components-130F40?logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
-[<img src="https://img.shields.io/badge/Express-130F40?&logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JWT-130F40?logo=JSON%20web%20tokens&logoColor=00000" alt="JWT logo" title="jwt" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=C21325" alt="JEST logo" title="jest" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="prisma" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-130F40?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Insomnia-130F40?logo=Insomnia&logoColor=5849be" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Figma-130F40?logo=figma&logoColor=F24E1E" alt="Figma logo" title="figma" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vercel-130F40?&logo=vercel&logoColor=ffffff" alt="Vercel logo" title="Vercel" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Netlify-130F40?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jira-130F40?style=&logo=Jira&logoColor=0052CC" alt="Jira logo" title="jira" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Slack-130F40?&logo=slack&logoColor=4A154B" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Trello-130F40?&logo=trello&logoColor=0052CC" alt="Trello logo" title="trello" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
-
-
-&nbsp;
+</div>
+  
+###
+<h4 align="center">Main Skills:</h4>
     
-[tech_tools_anchor]: #bonjour--
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<!--## ⚙️ &nbsp;GitHub Analytics
+###
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
-<br><br>
--->
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/jansen-osorio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jansenosorio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/eng_osorio" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eng_osorio-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-<br>
-<center>
   <table>
-    <tr>
-        <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenosorio&layout=compact&theme=vision-friendly-dark" /></td>
-        <td> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&show_icons=true&theme=vision-friendly-dark&count_private=true" /></td>
-    </tr>  
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+          <img width="12" /> Javascript
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+          <img width="12" /> Typescript
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+          <img width="12" /> React
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+          <img width="12" /> Jest
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+          <img width="12" /> HTML
+        </td>
+      </tr>      
+      <tr>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+          <img width="12" /> CSS
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+          <img width="12" /> Webpack
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+          <img width="12" /> Node.js
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+          <img width="12" /> Express
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+          <img width="12" /> Postgresql
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+          <img width="12" /> Redis
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+          <img width="12" /> MongoDB
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+          <img width="12" /> Docker
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+          <img width="12" /> AWS
+        </td>
+        <td>
+          <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+          <img width="12" /> Bash
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+          <img width="12" /> Git
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+          <img width="12" /> GitHub
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+          <img width="12" /> Linux
+        </td>
+         <td>          
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+          <img width="12" /> Next.js
+        </td>
+        <td>
+          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+          <img width="12" /> Visual Studio Code
+        </td>
+      </tr>
+     <tr>
+        <td>
+          <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nest logo"  />
+          <img width="12" /> NestJS
+      </td>
+      </tr>
+    </tbody>
   </table>
-</center>
+  
+<br clear="both">
+<br clear="both">
+<br clear="both">
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jansenosorio&bg_color=0d1117&color=ADD8E6&line=ADD8E6&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=5CBB52FF&icon_color=5CBB52FF&text_color=c9d1d9&bg_color=0d1117" alt="Jansen Osorio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenosorio&layout=compact&hide_border=true&title_color=5CBB52FF&text_color=5CBB52FF&bg_color=0d1117" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CBB52FF&height=120&section=footer"/>
+
 
 
 
