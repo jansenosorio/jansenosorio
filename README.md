@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CBB52FF&height=120&section=header"/>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5CBB52FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Jansen+Osório;Sou+Desenvolvedor+Web+Full+Stack;Meu+sonho+é+escalar+alta+montanha.+;Sou+de+São+Paulo+🌎;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5CBB52FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Jansen;I'm+Web+Developer+🖥️;My+dream+is+to+climb+a+high+mountain+⛰️;I'm+living+in+São+Paulo+🌎;Welcome!+:%29)](https://git.io/typing-svg)
 
  <br>
  <br>
@@ -15,17 +15,16 @@
 </div>
   
 ###
-<h4 align="center">Main Skills:</h4>
+<h3 align="center">Main Skills:</h3>
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
   <table>
     <tbody>
