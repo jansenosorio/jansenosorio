@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jansenosorio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-  <a href = "mailto:dev.osorio93@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:dev.osorio93@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="24" target="_blank">
 
 </div>
   
@@ -134,8 +134,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=5CBB52FF&icon_color=5CBB52FF&text_color=c9d1d9&bg_color=0d1117" alt="Jansen Osorio github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenosorio&layout=compact&hide_border=true&title_color=5CBB52FF&text_color=5CBB52FF&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jansenosorio&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=5CBB52FF&icon_color=5CBB52FF&text_color=c9d1d9&bg_color=0d1117" alt="Jansen Osorio github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansenosorio&layout=compact&hide_border=true&title_color=5CBB52FF&text_color=5CBB52FF&bg_color=0d1117" />
 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CBB52FF&height=120&section=footer"/>
