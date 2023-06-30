@@ -129,7 +129,6 @@
 <br clear="both">
 <br clear="both">
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jansenosorio&bg_color=0d1117&color=ADD8E6&line=ADD8E6&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
