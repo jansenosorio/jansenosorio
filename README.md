@@ -85,10 +85,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
           <img width="12" /> Docker
         </td>
-        <td>
+<!--         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
           <img width="12" /> AWS
-        </td>
+        </td> -->
         <td>
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
           <img width="12" /> Bash
