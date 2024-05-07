@@ -85,10 +85,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
           <img width="12" /> Docker
         </td>
-<!--         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-          <img width="12" /> AWS
-        </td> -->
         <td>
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
           <img width="12" /> Bash
@@ -99,7 +95,6 @@
         </td>
       </tr>
       <tr>
-       
         <td>
           <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
           <img width="12" /> GitHub
@@ -121,7 +116,6 @@
           <img width="12" /> NestJS
       </td>
       </tr>
-    
     </tbody>
   </table>
   
