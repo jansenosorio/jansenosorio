@@ -93,12 +93,13 @@
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
           <img width="12" /> Bash
         </td>
-      </tr>
-      <tr>
-        <td>
+         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
           <img width="12" /> Git
         </td>
+      </tr>
+      <tr>
+       
         <td>
           <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
           <img width="12" /> GitHub
@@ -115,13 +116,12 @@
           <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
           <img width="12" /> Visual Studio Code
         </td>
-      </tr>
-     <tr>
-        <td>
+         <td>
           <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nest logo"  />
           <img width="12" /> NestJS
       </td>
       </tr>
+    
     </tbody>
   </table>
   
